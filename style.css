@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: red;
+  position: center;
+}
+
+h1 .kata {
+  font-size: 20000px;
+}
+
+.img {
+  size: 1px 0.8px ;
+  
+}
+
+p {
+  color : white;
+}
+
